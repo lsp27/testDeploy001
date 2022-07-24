@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "TestDeploy",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
