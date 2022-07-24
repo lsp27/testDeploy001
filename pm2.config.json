@@ -3,7 +3,7 @@
     {
       "name": "TestDeploy",
       "script": "npm",
-      "args": "dev"
+      "args": "start"
     }
   ]
 }
